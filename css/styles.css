@@ -6,35 +6,38 @@ body {
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 100px;
   text-align: center;
-  background-color: coral;
+  background-color: rgb(250, 146, 241);
   margin-top: 0px;
   margin-left: -10px;
 }
 
 .menuImages {
-  width: 200px;
-  margin-left: 370px
+  width: 400px;
+  margin-left:45%
 }
 
 .vanilla {
-  color: beige;
+  color: red;
   text-align: center;
+  font-size: 50px;
 }
 
 .choco {
   color: rgb(83, 41, 10);
   text-align: center;
+  font-size: 50px;
 }
 
 .straw {
   color: red;
   text-align: center;
+  font-size: 50px;
 }
 
 .flashy {
-  color: red;
+  color: rgb(65, 28, 124);
   font-style: italic;
 }
 
@@ -45,4 +48,5 @@ h1 {
 
 p {
   text-align: center;
+  font-size: 40px;
 }
